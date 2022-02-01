@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	{"",      "~/.local/bin/nowplaying",                      0,                  1 },
 	{"",      "~/.local/bin/battery",                         31,                 0 },
 	{"",      "~/.local/bin/volume",                          0,                  2 },
-	{" ",    "date '+%d.%m.%Y %H:%M'",                       5,                  0 },
+	{" ",    "date '+%d.%m.%Y %H:%M'",                       6,                  0 },
 
 };
 
